@@ -1,0 +1,21 @@
+{
+    "item.ice_and_fire_spellbooks.dragonmancers_oathbook": "Книга Клятв Дракономанта",
+    "item.ice_and_fire_spellbooks.dragon_priest_staff": "Драконий Посох Волшебства",
+
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_helmet": "Головной Убор Чародея Огненного Дракона",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_chestplate": "Одеяние Чародея Огненного Дракона",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_leggings": "Шаровары Чародея Огненного Дракона",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_boots": "Сапоги Чародея Огненного Дракона",
+
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_helmet": "Головной Убор Чародея Ледяного Дракона",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_chestplate": "Одеяние Чародея Ледяного Дракона",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_leggings": "Шаровары Чародея Ледяного Дракона",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_boots": "Сапоги Чародея Ледяного Дракона",
+
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_helmet": "Головной Убор Чародея Грозового Дракона",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_chestplate": "Одеяние Чародея Грозового Дракона",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_leggings": "Шаровары Чародея Грозового Дракона",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_boots": "Сапоги Чародея Грозового Дракона",
+
+    "tab.ice_and_fire_spellbooks.armor": "Ice and Fire: Книги Заклинаний"
+}
